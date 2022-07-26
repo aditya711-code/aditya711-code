@@ -6,7 +6,7 @@
 - Familiar with:
 - 1.HTML | CSS
 - 2.Javascript
-- 3.Java
+- 3.C++/Java
 
 <!---
 aditya711-code/aditya711-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
