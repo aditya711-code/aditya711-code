@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on web-development<br>🤩 I'm interested in various data structures and algorithms<br>💪 I'm great at fontend technologies, problem-solving<br>🌱 I'm currently trying to be better at ReactJS<br>🤝 Open to collaborating on hackathons and team coding contests<br>🚀 Aiming to be an SDE and a good problem solver
+🔭 I'm currently working on MoneyMap a react-native project to manage the expenses<br>🤩 I'm interested in various data structures and algorithms<br>💪 I'm great at fontend technologies, problem-solving<br>🌱 I'm currently trying to be better at ReactJS<br>🤝 Open to collaborating on hackathons and team coding contests<br>🚀 Aiming to be an SDE and a good problem solver
 
 
 ## 🌐 Profile Links:
