@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on MoneyMap a react-native project to manage the expenses<br>🤩 I'm interested in various data structures and algorithms<br>💪 I'm great at fontend technologies, problem-solving<br>🌱 I'm currently trying to be better at ReactJS<br>🤝 Open to collaborating on hackathons and team coding contests<br>🚀 Aiming to be an SDE and a good problem solver
+🔭 I'm currently enhancing my skills in full-stack development, with a focus on React.js, Next.js, and backend development using Java, Spring Boot, and Node.js.<br>🤩 I have a strong interest in data structures and algorithms and enjoy solving complex problems.<br>💪 I'm proficient in frontend technologies, and problem-solving, and have worked extensively on React and Next.js projects.<br>🌱 Currently deepening my expertise in backend development and system design.<br>🤝 Open to collaborating on challenging projects, hackathons, and team coding contests.<br>🚀 Aspiring to grow as an SDE with a keen focus on building efficient and scalable solutions.
 
 
 ## 🌐 Profile Links:
