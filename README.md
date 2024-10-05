@@ -3,7 +3,7 @@
 
 
 ## 🌐 Profile Links:
-[![Leetcode](https://cp-logo.vercel.app/leetcode/adityamane711?logo=true)](https://leetcode.com/adityamane711)
+[![Leetcode](https://cp-logo.vercel.app/leetcode-cn/adityamane711?logo=true)](https://leetcode.com/adityamane711)
 [![Codechef](https://cp-logo.vercel.app/codechef/adistar711?logo=true)](https://www.codechef.com/users/adistar711)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityamane187) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-mane-048157203/) 
