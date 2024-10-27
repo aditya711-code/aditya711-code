@@ -3,7 +3,8 @@
 
 
 ## 🌐 Profile Links:
-[![Leetcode](https://cp-logo.vercel.app/leetcode-cn/adityamane711?logo=true)](https://leetcode.com/adityamane711)
+[![Leetcopde](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/adityamane711/) 
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/adityamane711/practice/)
 [![Codechef](https://cp-logo.vercel.app/codechef/adistar711?logo=true)](https://www.codechef.com/users/adistar711)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityamane187) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-mane-048157203/) 
