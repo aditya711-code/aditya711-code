@@ -23,8 +23,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://devhumor.com/content/uploads/images/March2022/repetitive_task.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JoKeR-VIKING&icon=0&color=3)](https://visitcount.itsvg.in)
