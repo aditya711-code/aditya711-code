@@ -1,12 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently enhancing my skills in full-stack development, with a focus on React.js, Next.js, and backend development using Java, Spring Boot, and Node.js.<br>🤩 I have a strong interest in data structures and algorithms and enjoy solving complex problems.<br>💪 I'm proficient in frontend technologies, and problem-solving, and have worked extensively on React and Next.js projects.<br>🌱 Currently deepening my expertise in backend development and system design.<br>🤝 Open to collaborating on challenging projects, hackathons, and team coding contests.<br>🚀 Aspiring to grow as an SDE with a keen focus on building efficient and scalable solutions.
+🔭 I'm currently enhancing my skills in full-stack development.<br>🤩 I have a strong interest in data structures and algorithms and enjoy solving complex problems.<br>💪 I'm proficient in frontend technologies, and problem-solving, and have worked extensively on React and Next.js projects.<br>🌱 Currently deepening my expertise in backend development and system design.<br>🤝 Open to collaborating on challenging projects, hackathons, and team coding contests.<br>🚀 Aspiring to grow as an SDE with a keen focus on building efficient and scalable solutions.
 
 
 ## 🌐 Profile Links:
 [![Leetcopde](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/adityamane711/) 
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/adityamane711/practice/)
-[![Codechef](https://cp-logo.vercel.app/codechef/adistar711?logo=true)](https://www.codechef.com/users/adistar711)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adityamane187) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-mane-048157203/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18705295/aditya-mane) 
 
